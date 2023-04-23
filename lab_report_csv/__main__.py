@@ -1,4 +1,4 @@
-"""Entry point for project_name."""
+"""Entry point for lab_report_csv."""
 
 from .cli import main  # pragma: no cover
 
